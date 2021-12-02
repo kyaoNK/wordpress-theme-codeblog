@@ -1,0 +1,56 @@
+06/16/21 7:03:52: style.scss - parse error: failed at `f` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 248, at column 17
+06/16/21 7:03:52: style.scss - parse error: failed at `f` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 248, at column 17
+06/16/21 7:03:52: style.scss - parse error: failed at `f` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 248, at column 17
+06/16/21 7:03:52: style.scss - parse error: failed at `f` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 248, at column 17
+06/16/21 7:03:52: style.scss - parse error: failed at `f` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 248, at column 17
+06/16/21 7:03:53: style.scss - parse error: failed at `f` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 248, at column 17
+06/16/21 9:53:01: style.scss - parse error: failed at `font: ;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 350, at column 25
+06/16/21 9:53:01: style.scss - parse error: failed at `font: ;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 350, at column 25
+06/16/21 9:53:01: style.scss - parse error: failed at `font: ;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 350, at column 25
+06/16/21 11:09:20: style.scss - parse error: failed at `firstview` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 125, at column 13
+06/16/21 11:09:20: style.scss - parse error: failed at `firstview` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 125, at column 13
+06/23/21 4:40:16: style.scss - parse error: failed at `height: ;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 587, at column 17
+06/30/21 5:04:54: style.scss - parse error: failed at `width: ;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 618, at column 25
+06/30/21 5:04:54: style.scss - parse error: failed at `width: ;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 618, at column 25
+06/30/21 5:04:54: style.scss - parse error: failed at `width: ;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 618, at column 25
+06/30/21 5:12:26: style.scss - parse error: failed at `width: %;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 622, at column 25
+06/30/21 5:12:26: style.scss - parse error: failed at `width: %;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 622, at column 25
+06/30/21 5:12:26: style.scss - parse error: failed at `width: %;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 622, at column 25
+06/30/21 5:12:39: style.scss - parse error: failed at `width: %;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 622, at column 25
+06/30/21 5:12:39: style.scss - parse error: failed at `width: %;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 622, at column 25
+06/30/21 5:12:39: style.scss - parse error: failed at `width: %;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 622, at column 25
+06/30/21 5:32:30: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:31: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:31: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:31: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:33: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:33: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:33: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:34: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:37: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:40: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:40: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:41: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:41: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:42: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:42: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:42: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:34:42: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:35:24: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:35:24: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:35:25: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:35:25: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:35:25: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:35:26: style.scss - parse error: failed at `.` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 636, at column 9
+06/30/21 5:57:48: style.scss - parse error: failed at `.single-box` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 668, at column 13
+06/30/21 5:57:48: style.scss - parse error: failed at `.single-box` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 668, at column 13
+08/14/21 9:26:49: style.scss - parse error: failed at `border: ;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 720, at column 5
+08/16/21 9:17:20: style.scss - parse error: failed at `margin-top: ;` /Users/kyaon/Local Sites/codeblog/app/public/wp-content/themes/codetheme/assets/scss/style.scss on line 763, at column 5
+08/18/21 2:33:34: style.scss - Undefined variable $theme: style.scss on line 347, at column 13
+08/18/21 2:35:34: style.scss - Undefined variable $theme: style.scss on line 317, at column 17
+08/18/21 2:36:32: style.scss - Undefined variable $theme: style.scss on line 339, at column 21
+08/18/21 2:36:33: style.scss - Undefined variable $theme: style.scss on line 339, at column 21
+08/18/21 2:37:12: style.scss - Undefined variable $theme: style.scss on line 339, at column 21
+08/18/21 2:37:13: style.scss - Undefined variable $theme: style.scss on line 339, at column 21
+08/18/21 2:37:34: style.scss - Undefined variable $theme: style.scss on line 339, at column 21
+08/18/21 2:37:36: style.scss - Undefined variable $theme: style.scss on line 339, at column 21
